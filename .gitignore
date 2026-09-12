@@ -1,0 +1,19 @@
+# Vivado
+*.jou
+*.log
+*.str
+*.xpr
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+.Xil/
+
+# Icarus Verilog
+*.vvp
+*.vcd
+
+# OS
+.DS_Store
+Thumbs.db
